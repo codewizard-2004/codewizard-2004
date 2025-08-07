@@ -99,12 +99,14 @@ me.say_hi()
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/codewizard-2004">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewizard-2004&repo=your-awesome-project&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/codewizard-2004">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewizard-2004&repo=another-cool-project&theme=tokyonight" />
-  </a>
+  <p>🚀 Check out my repositories to see my latest projects!</p>
+  <p>💡 From web applications to AI/ML experiments, there's always something exciting in the works.</p>
+  
+  <!-- Replace with actual repository pins when you have featured projects -->
+  <!-- Example: -->
+  <!-- <a href="https://github.com/codewizard-2004/your-repo-name"> -->
+  <!--   <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewizard-2004&repo=your-repo-name&theme=tokyonight" /> -->
+  <!-- </a> -->
 </div>
 
 ## 📫 Let's Connect!
