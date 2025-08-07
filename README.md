@@ -48,6 +48,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ### 💻 Programming Languages
@@ -58,6 +59,12 @@ me.say_hi()
 ### 🛠️ Tools & Technologies
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman" />
+</div>
+
+### 🧩 Problem Solving
+<div align="center">
+  <img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem%20Solver-Expert-00D9FF?style=for-the-badge&logo=codechef&logoColor=white" />
 </div>
 
 ## 📊 GitHub Stats
