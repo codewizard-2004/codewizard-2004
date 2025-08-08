@@ -153,7 +153,7 @@ me.say_hi()
   <a href="https://www.instagram.com/4mal_varghese/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://my-portfolio-blush-three-73.vercel.app/#">
+  <a href="https://codewizard-2004.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
