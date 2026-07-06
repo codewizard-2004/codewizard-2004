@@ -103,14 +103,14 @@ me.say_hi()
   <!-- Project 1 -->
   <div>
     <a href="https://github.com/codewizard-2004/epistula-frontend">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codewizard-2004&repo=your-repo-name&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3" />
+      <img align="center" src="https://github.com/codewizard-2004/codewizard-2004/blob/main/images/epistula.png" />
     </a>
   </div>
   <br/>
   <!-- Project 2 -->
   <div>
     <a href="https://github.com/codewizard-2004/Vitalia.ai">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codewizard-2004&repo=another-repo&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3" />
+      <img align="center" src="https://github.com/codewizard-2004/codewizard-2004/blob/main/images/vitalia.png" />
     </a>
   </div>
   <br/>
@@ -131,7 +131,7 @@ me.say_hi()
   <!-- Project 5 -->
   <div>
     <a href="https://github.com/codewizard-2004/BookBridge">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codewizard-2004&repo=web-development-project&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3" />
+      <img align="center" src="https://github.com/codewizard-2004/codewizard-2004/blob/main/images/bookbridge.png" />
     </a>
   </div>
   <br/>
