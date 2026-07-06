@@ -102,28 +102,35 @@ me.say_hi()
   <h3>🚀 Some of my favorite creations</h3>
   <!-- Project 1 -->
   <div>
-    <a href="https://github.com/codewizard-2004/your-repo-name">
+    <a href="https://github.com/codewizard-2004/epistula-frontend">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codewizard-2004&repo=your-repo-name&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3" />
     </a>
   </div>
   <br/>
   <!-- Project 2 -->
   <div>
-    <a href="https://github.com/codewizard-2004/another-repo">
+    <a href="https://github.com/codewizard-2004/Vitalia.ai">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codewizard-2004&repo=another-repo&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3" />
     </a>
   </div>
   <br/>
   <!-- Project 3 -->
   <div>
-    <a href="https://github.com/codewizard-2004/ai-ml-project">
+    <a href="https://github.com/codewizard-2004/expense-tracker">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codewizard-2004&repo=ai-ml-project&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3" />
     </a>
   </div>
   <br/>
   <!-- Project 4 -->
   <div>
-    <a href="https://github.com/codewizard-2004/web-development-project">
+    <a href="https://github.com/codewizard-2004/FoodNet">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codewizard-2004&repo=web-development-project&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3" />
+    </a>
+  </div>
+  <br/>
+  <!-- Project 5 -->
+  <div>
+    <a href="https://github.com/codewizard-2004/BookBridge">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codewizard-2004&repo=web-development-project&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3" />
     </a>
   </div>
