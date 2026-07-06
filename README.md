@@ -117,14 +117,14 @@ me.say_hi()
   <!-- Project 3 -->
   <div>
     <a href="https://github.com/codewizard-2004/expense-tracker">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codewizard-2004&repo=ai-ml-project&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3" />
+      <img align="center" src="https://github.com/codewizard-2004/codewizard-2004/blob/main/images/ex.png" />
     </a>
   </div>
   <br/>
   <!-- Project 4 -->
   <div>
     <a href="https://github.com/codewizard-2004/FoodNet">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codewizard-2004&repo=web-development-project&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3" />
+      <img align="center" src="https://github.com/codewizard-2004/codewizard-2004/blob/main/images/foodnet.png" />
     </a>
   </div>
   <br/>
